@@ -25,7 +25,7 @@ You can modify how MediaPackage interacts with SCTE\-35 messages from your sourc
 + For the MediaPackage REST API, see [Origin\_endpoints](https://docs.aws.amazon.com/mediapackage/latest/apireference/origin_endpoints.html) in the *AWS Elemental MediaPackage API Reference*\.
 
 **Important**  
-To modify how MediaPackage handles SCTE\-35 messages, you should be familiar with the SCTE\-35 standard\. You can download a PDF of the most recent standards here: [Download SCTE ISBE Standards](https://www.scte.org/SCTE/Standards/Download/SCTE/Standards/Download_SCTE_Standards.aspx?hkey=63914a25-0f85-4d74-8181-c1b642039ad7)\. You should also be familiar with how SCTE\-35 is implemented in your source content\. 
+To modify how MediaPackage handles SCTE\-35 messages, you should be familiar with the SCTE\-35 standard\. You can download a PDF of the most recent standards here: [Download SCTE ISBE Standards](Insert Correct Link HERE)\. You should also be familiar with how SCTE\-35 is implemented in your source content\. 
 
 ****Ad markers****  
 This setting is available on HLS and CMAF endpoints\.   
